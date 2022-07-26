@@ -12,12 +12,14 @@ class run extends modul{
                             if (e.target.checked === true) {
                                 new modul().shortLampuON(lampu[i])
                                 new modul().shortLabelON(label[i])
+                                new modul().shortSwitchOn(switc[i])
                                 new modul().shortSwitchOn(switc[a])
                                 new modul().shortLabelON(label[10])
 
                             } else {
                                 new modul().shortLampuOFF(lampu[i])
                                 new modul().shortLabelOOF(label[i])
+                                new modul().shortSwitchOff(switc[i])
                                 new modul().shortSwitchOff(switc[a])
                                 new modul().shortLabelOOF(label[10])
 
@@ -32,6 +34,7 @@ class run extends modul{
                             if (e.target.checked === true) {
                                 new modul().shortLampuON(lampu[i])
                                 new modul().shortLabelON(label[i])
+                                new modul().shortSwitchOn(switc[i])
                                 new modul().shortSwitchOn(switc[a])
                                 new modul().shortLabelON(label[11])
 
@@ -39,6 +42,7 @@ class run extends modul{
                             } else {
                                 new modul().shortLampuOFF(lampu[i])
                                 new modul().shortLabelOOF(label[i])
+                                new modul().shortSwitchOff(switc[i])
                                 new modul().shortSwitchOFF(switc[a])
                                 new modul().shortLabelON(label[11])
                             }
@@ -51,12 +55,14 @@ class run extends modul{
                             if (e.target.checked === true) {
                                 new modul().shortLampuON(lampu[i])
                                 new modul().shortLabelON(label[i])
+                                new modul().shortSwitchOn(switc[i])
                                 new modul().shortSwitchOn(switc[a])
                                 new modul().shortLabelON(label[12])
 
                             } else {
                                 new modul().shortLampuOFF(lampu[i])
                                 new modul().shortLabelOOF(label[i])
+                                new modul().shortSwitchOff(switc[i])
                                 new modul().shortSwitchOFF(switc[a])
                                 new modul().shortLabelON(label[12])
                             }
@@ -70,12 +76,14 @@ class run extends modul{
                             if (e.target.checked === true) {
                                 new modul().shortLampuON(lampu[i])
                                 new modul().shortLabelON(label[i])
+                                new modul().shortSwitchOn(switc[i])
                                 new modul().shortSwitchOn(switc[a])
                                 new modul().shortLabelON(label[13])
 
                             } else {
                                 new modul().shortLampuOFF(lampu[i])
                                 new modul().shortLabelOOF(label[i])
+                                new modul().shortSwitchOff(switc[i])
                                 new modul().shortSwitchOFF(switc[a])
                                 new modul().shortLabelON(label[13])
                             }
