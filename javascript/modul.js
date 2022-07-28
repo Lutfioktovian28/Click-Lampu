@@ -7,10 +7,10 @@
         }
 
         shortLampuON(a) {
-            return  a.src = '../assets/lampuON.png'
+            return  a.src = '../assets/lampuon.gif'
         }
         shortLampuOFF(a) {
-             return a.src = '../assets/lampuOFF.png'
+             return a.src = '../assets/lampuoff.gif'
         }
          shortSwitchOn(a){
             return a.checked = true
