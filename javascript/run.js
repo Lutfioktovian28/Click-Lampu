@@ -43,7 +43,7 @@ class run extends modul{
                                 new modul().shortLampuOFF(lampu[i])
                                 new modul().shortLabelOOF(label[i])
                                 new modul().shortSwitchOff(switc[i])
-                                new modul().shortSwitchOFF(switc[a])
+                                new modul().shortSwitchOff(switc[a])
                                 new modul().shortLabelON(label[11])
                             }
 
@@ -63,7 +63,7 @@ class run extends modul{
                                 new modul().shortLampuOFF(lampu[i])
                                 new modul().shortLabelOOF(label[i])
                                 new modul().shortSwitchOff(switc[i])
-                                new modul().shortSwitchOFF(switc[a])
+                                new modul().shortSwitchOff(switc[a])
                                 new modul().shortLabelON(label[12])
                             }
 
@@ -84,7 +84,7 @@ class run extends modul{
                                 new modul().shortLampuOFF(lampu[i])
                                 new modul().shortLabelOOF(label[i])
                                 new modul().shortSwitchOff(switc[i])
-                                new modul().shortSwitchOFF(switc[a])
+                                new modul().shortSwitchOff(switc[a])
                                 new modul().shortLabelON(label[13])
                             }
 
